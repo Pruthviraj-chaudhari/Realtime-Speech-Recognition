@@ -1,16 +1,7 @@
-<h1 align = "center"> Speech Recognition in Python </h1>
+# Speech Recognition in Python using Google Speech Recognition Engine
 
-
-Python-Speech-Recognition
----------------------------
-
-This repository of basic examples on performing Speech Recognitionin Python using Google Speech Recognition Engine.
-
-
-The original article
--------------------------
-
-To see full article with explanation on source code from this repository **[Click here](https://kalebujordan.com/python-speech-recognition)**
+## Introduction
+This Python project demonstrates speech recognition using the Google Speech Recognition engine. The Google Speech Recognition API converts spoken words into written text, enabling a wide range of applications, from voice commands to transcription.
 
 
 Getting started 🔧
@@ -20,10 +11,10 @@ just as shown below;
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kalebu/Python-Speech-Recognition-
+$ git clone https://github.com/Pruthviraj-chaudhari/Realtime-Speech-Recognition
 
 # Go into the repository
-$ cd Python-Speech-Recognition-
+$ cd Realtime-Speech-Recognition
 ```
 
 ## Dependancies
@@ -119,4 +110,4 @@ Credits
 All the credits to [kalebu](github.com/kalebu) 
 
 
-*The Only limits are the one you have set upon yourself @unkown*# Realtime-Speech-Recognition
+*The Only limits are the one you have set upon yourself @unkown*
